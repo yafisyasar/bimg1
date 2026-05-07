@@ -2,16 +2,16 @@
 # Bimg
 
 Bimg – big image viewer
+Deep Zoom Sky map with Hover Icons
 
 ## 🛠 Tech stack
-Javascript, HTML, CSS
+HTML, Tailwind CSS
 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/1.jpeg)
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/2.jpeg)
-![App Screenshot](https://raw.githubusercontent.com/mrwildfoxgamer/Music_app/main/images/3.jpeg)
+![App Screenshot](https://raw.githubusercontent.com/yafisyasar/bimg1/main/images/1.png)
+![App Screenshot](https://raw.githubusercontent.com/yafisyasar/bimg1/main/images/2.png)
 
 ## Usage/Examples
 clone and run 
