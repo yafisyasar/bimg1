@@ -15,5 +15,6 @@ HTML, Tailwind CSS
 
 ## Usage/Examples
 clone and run 
-```python main.py
+```
+python main.py
 ```
